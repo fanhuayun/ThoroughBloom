@@ -1,0 +1,19 @@
+@use "sass:math";
+
+$bodyBg:#ccc;
+
+// 3840 * 2160
+$designWidth:3840;
+$designHeight:2160;
+
+@function vw($px){
+    @return math.div($px, $designWidth) * 100vw;
+}
+
+@function vh($px){
+    @return math.div($px, $designHeight) * 100vh;
+}
+
+@function px2font($px){
+    @return math.div($px, $designWidth) * 100vw;
+}
