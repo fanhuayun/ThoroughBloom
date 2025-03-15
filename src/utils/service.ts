@@ -4,7 +4,7 @@
  * @param env The current env
  */
 export function createServiceConfig(env: Env.ImportMeta) {
-  const { VITE_SERVICE_BASE_URL, VITE_OTHER_SERVICE_BASE_URL } = env;
+  const { VITE_SERVICE_BASE_URL = '/', VITE_OTHER_SERVICE_BASE_URL } = env;
 
   let other = {} as Record<App.Service.OtherBaseURLKey, string>;
   try {
