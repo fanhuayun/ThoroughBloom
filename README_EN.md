@@ -149,9 +149,15 @@ Thanks to the following contributors:
   <img src="https://contrib.rocks/image?repo=fanhuayun/ThoroughBloom" />
 </a>
 
+## WeChat Group
+
+Welcome to join our WeChat group to discuss and solve problems together. Please scan the QR code below to join:
+
+![WeChat Group QR Code](https://test.hgjzt.com/files/wxcode.png)
+
 ## 📞 Contact Us
 
-- Official Website: [https://fanhuacloud.com](https://fanhuacloud.com)
-- Email: contact@fanhuacloud.com
+- Official Website: [https://thoroughbloom.cn](https://www.thoroughbloom.cn)
+- Email: yezimo69@gmail.com
 - GitHub: [https://github.com/fanhuayun/ThoroughBloom](https://github.com/fanhuayun/ThoroughBloom)
 - Gitee: [https://gitee.com/fanhuacloud/ThoroughBloom](https://gitee.com/fanhuacloud/ThoroughBloom) (Recommended for users in China)

@@ -25,7 +25,7 @@
 
 ## 📖 项目介绍
 
-繁花云 (Fanhuacloud) 是一个专注于物联网系统的开源项目组织。我们提供了一套完整的、开源的物联网解决方案，涵盖了从前端到后端的全部代码。繁花云的前端基于 Vue.js 开发，后端则采用了灵活且可扩展的技术栈，所有代码完全免费开源。
+繁花云 (ThoroughBloom) 是一个专注于物联网系统的开源项目组织。我们提供了一套完整的、开源的物联网解决方案，涵盖了从前端到后端的全部代码。繁花云的前端基于 Vue.js 开发，后端则采用了灵活且可扩展的技术栈，所有代码完全免费开源。
 
 ThoroughBloom 是繁花云项目的前端部分，提供了直观、美观且功能强大的用户界面，用于物联网设备的管理、监控和控制。
 
@@ -149,9 +149,16 @@ src/
   <img src="https://contrib.rocks/image?repo=fanhuayun/ThoroughBloom" />
 </a>
 
+
+## 交流群
+
+欢迎加入我们的微信交流群，一起讨论和解决问题。请扫描以下二维码加入：
+
+![交流群二维码](https://test.hgjzt.com/files/wxcode.png)
+
 ## 📞 联系我们
 
-- 官方网站：[https://fanhuacloud.com](https://fanhuacloud.com)
-- 电子邮件：contact@fanhuacloud.com
+- 官方网站：[https://thoroughbloom.cn](https://www.thoroughbloom.cn)
+- 电子邮件：yezimo69@gmail.com
 - GitHub：[https://github.com/fanhuayun/ThoroughBloom](https://github.com/fanhuayun/ThoroughBloom)
 - Gitee：[https://gitee.com/fanhuacloud/ThoroughBloom](https://gitee.com/fanhuacloud/ThoroughBloom) (国内推荐)
